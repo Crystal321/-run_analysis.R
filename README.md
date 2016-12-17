@@ -34,6 +34,6 @@ run_analysis.R
 
 5.Appropriately labels the data set with descriptive variable names. This is done using gsub function.
 
-6. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. This is done using dylyr package, and group_by function, and summarise_each function. The mean of activities and subjects are created into a separate tidy data set which is exported into the Project folder as txt file; this is named “MeanData.txt”.
+6.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. This is done using dylyr package, and group_by function, and summarise_each function. The mean of activities and subjects are created into a separate tidy data set which is exported into the Project folder as txt file; this is named “MeanData.txt”.
 
 
